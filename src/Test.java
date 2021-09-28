@@ -22,4 +22,21 @@ public class Test {
 		system.out.println("sub function");
 	}
 
+	public void add()
+	{
+
+		system.out.println("sub function");
+	}
+
+	public void mul()
+	{
+
+		system.out.println("sub function");
+	}
+	public void div()
+	{
+
+		system.out.println("sub function");
+	}
+
 }
