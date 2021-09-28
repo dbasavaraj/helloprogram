@@ -16,5 +16,10 @@ public class Test {
 		System.out.println("Git Learning");
 
 	}
+	public void sub()
+	{
+
+		system.out.println("sub function");
+	}
 
 }
