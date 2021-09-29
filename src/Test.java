@@ -39,4 +39,9 @@ public class Test {
 		system.out.println("sub function");
 	}
 
+	public void push()
+	{
+
+		system.out.println("sub function");
+	}
 }
